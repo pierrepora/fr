@@ -113,9 +113,9 @@ title: Recherche
 
 * **"Do Children Explain Nurses Shortages?"**, première version bientôt disponible.
 
-* **"Job Displacement, Families and Redistribution", with [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, première version bientôt disponible.
+* **"Job Displacement, Families and Redistribution", avec [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, première version bientôt disponible.
 
-* **"Short-Term Contracts, Long-Term Consequences?", with O. Bonnet and [S. Georges-Kot](https://sgskt.github.io/).** [Résumé pour le grand public](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
+* **"Short-Term Contracts, Long-Term Consequences?", avec O. Bonnet et [S. Georges-Kot](https://sgskt.github.io/).** [Résumé pour le grand public](https://www.insee.fr/fr/statistiques/4183052?sommaire=4182950).
     <details>
         <summary>Couverture presse</summary>
     
