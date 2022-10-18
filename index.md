@@ -6,3 +6,4 @@ J'ai soutenu en janvier 2022 ma thèse d'économie à l'[Université Paris Nante
 
 Ma recherche porte essentiellement sur l'économie du travail, de la santé et l'évaluation des politiques publiques, avec un intérêt particulier pour l'économie de la famille et du genre.
 
+Enfin, j'enseigne la modélisation et l'inférence causale au sein du parcours de [Master "Quantifier en Sciences Sociales"](https://master-sciences-sociales.ens.psl.eu/qess-presentation/). Une version en construction du support de cet enseignement est disponible [ici](https://pierrepora.github.io/inference_causale).
