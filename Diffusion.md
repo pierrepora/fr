@@ -113,7 +113,7 @@ le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=
    <p></p>
 
 
-# Other non-academic publications
+# Autres publications non-académiques
 
 * ["Les trajectoires d’emploi des contractuels entre 2009 et 2015"](https://www.fonction-publique.gouv.fr/files/files/statistiques/rapports_annuels/2019/07_Dossier-Cotractuels_trajectoires-2019.pdf), avec O. Bonnet et S. Georges-Kot, in *Rapport annuel sur l’état de la fonction publique*, 2019.
 
