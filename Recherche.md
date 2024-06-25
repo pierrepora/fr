@@ -127,7 +127,7 @@ title: Recherche
 
 # Travaux en cours
 
-* **"Do Children Explain Nurses Shortages?"**, première version bientôt disponible.
+* **"Do Children Explain Nurses Shortages?"**, [Résumé pour le grand public](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
 
 * **"Job Displacement, Families and Redistribution", avec [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, première version bientôt disponible.
 
