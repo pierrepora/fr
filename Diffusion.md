@@ -4,21 +4,46 @@ title: Publications grand public
 
 # Diffusion de la recherche
 
+* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), with R. Lardeux, Dossiers de la Drees 117, 2024.   
+     <details>
+        <summary>Couverture presse</summary>
+     
+        <a href="https://www.info-socialrh.fr/conditions-de-travail/accidents-de-travail/accidents-du-travail-une-reinsertion-dans-lemploi-compromise-899936.php">Info Social RH</a>,
+        <a href="https://www.sante-et-travail.fr/accidents-du-travail-tres-cher-payes-victimes">Santé & Travail</a>
+    </details>
+    
+    <p></p>
+
+* ["Près d’une infirmière hospitalière sur deux a quitté l’hôpital ou changé de métier après dix ans de carrière"](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf), Études et Résultats 1277, 2023.   
+     <details>
+        <summary>Couverture presse</summary>
+     
+        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
+        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
+        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
+        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
+        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
+        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
+    </details>
+    
+    <p></p>
+
 * [Comment le télétravail affecte-t-il la productivité des entreprises ?
 Les enseignements très partiels de la littérature](https://blog.insee.fr/comment-le-teletravail-affecte-t-il-la-productivite-des-entreprises-les-enseignements-tres-partiels-de-la-litterature/), Blog de l'Insee, 2020.
      <details>
         <summary>Couverture presse</summary>
     
         <a href="https://www.alternatives-economiques.fr/on-plus-productif-teletravail/00094959">Alternatives Économiques</a>,
+  <a href="https://www.cadre-dirigeant-magazine.com/reussir-en-entreprise/lentreprise-est-elle-plus-productive-avec-le-teletravail-lanalyse-de-linsee/">Cadre & Dirigeant Magazin</a>,
         <a href="https://www.challenges.fr/economie/bataille-d-economistes-autour-de-la-productivite-du-teletravail_738150">Challenges</a>,
         <a href="https://www.info-socialrh.fr/bibliotheque-numerique/entreprise-et-carrieres/1504/les-cles/sans-preparation-ni-volontariat-le-teletravail-pourrait-nuire-a-la-productivite-628278.php">Entreprise & Carrières</a>,
         <a href="https://www.usinenouvelle.com/article/apres-un-an-de-crise-sanitaire-l-impact-du-teletravail-sur-la-productivite-reste-difficile-a-evaluer.N1072454">L'Usine Nouvelle</a>,
         <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
         <a href="https://www.lefigaro.fr/conjoncture/le-teletravail-est-il-favorable-a-la-croissance-economique-20210215">Le Figaro</a>.
     </details>
-    Une [vidéo](https://www.dailymotion.com/video/x81ibx8) d'une présentation orale de cette revue de littérature est disponible en ligne.
+    [Here](https://www.dailymotion.com/video/x81ibx8) is a video of a presentation I made of this survey of the literature.
     <p></p>
-
 * ["Accroître l’offre de places en crèche : peu d’effet sur l’emploi, une baisse du recours aux autres modes de garde"](https://insee.fr/fr/statistiques/4652808), Insee Analyses 55, 2020.   
      <details>
         <summary>Couverture presse</summary>
