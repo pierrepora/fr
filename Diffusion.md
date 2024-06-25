@@ -42,7 +42,7 @@ Les enseignements très partiels de la littérature](https://blog.insee.fr/comme
         <a href="https://www.latribune.fr/economie/france/teletravail-quel-impact-economique-et-social-862168.html">La Tribune</a>,
         <a href="https://www.lefigaro.fr/conjoncture/le-teletravail-est-il-favorable-a-la-croissance-economique-20210215">Le Figaro</a>.
     </details>
-    [Here](https://www.dailymotion.com/video/x81ibx8) is a video of a presentation I made of this survey of the literature.
+    [Voici](https://www.dailymotion.com/video/x81ibx8) une vidéo d'une intervention que j'ai faite au café de la SFdS pour présenter cette revue de littérature.
     <p></p>
 * ["Accroître l’offre de places en crèche : peu d’effet sur l’emploi, une baisse du recours aux autres modes de garde"](https://insee.fr/fr/statistiques/4652808), Insee Analyses 55, 2020.   
      <details>
