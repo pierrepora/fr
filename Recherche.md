@@ -45,6 +45,22 @@ title: Recherche
 
     <p></p>
 
+# Contributions invitées
+
+* **["Telework and Productivity Three Years After the Start of the Pandemic"](https://www.insee.fr/en/statistiques/7647331?sommaire=7647685). *Economie et Statistique / Economics and Statistics*, 539, 91-96, 2023.**
+    <details>
+        <summary>Abstract</summary>
+            
+            Since March 2020, the COVID‑19 pandemic has caused many companies and employees to turn to telework. The articles by Bergeaud et al. (2023) and Criscuolo et al. (2023) document the effects of telework on productivity in detail and, more broadly, its effects on the behaviour of companies and employees, both before and during the health crisis. This commentary discusses their findings in terms of the uncertain knowledge that was available on the effects of telework before the health crisis, as well as the technical and conceptual difficulties raised by estimating the consequences of telework. Finally, it examines the apparent paradox whereby, despite its positive effects on both the productive efficiency of companies and the working conditions of employees, teleworking remained rare prior to 2020.
+    </details>
+    
+  <details>
+    <summary>Couverture presse</summary>
+  
+        <a href="https://www.lexpress.fr/economie/absenteisme-productivite-en-berne-le-travail-ce-nouveau-mal-francais-QOQPJCVXTZF5HF2WWXXGWWPSTU/">L'Express</a>.
+  </details>
+  <p></p>
+
 # Documents de travail
 
 *  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Childcare_Pora_Feb21.pdf). EconomiX Working Paper 2020-29.** [Résumé pour le grand public](https://insee.fr/fr/statistiques/4652808).
