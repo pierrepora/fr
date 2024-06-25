@@ -5,7 +5,7 @@ Mon CV est disponible [ici](CV_Pora_fr.pdf).
 
 # Expérience professionnelle 
 
-* 2022-: **Responsable de la section "Dynamiques démographiques et familiales"**, [Insee](https://insee.fr/fr/accueil). Cette équipe de 5 personnes mène des enquêtes et des études consacrées à la vie familiale et aux dynamiques démographiques de la population française.
+* 2022-: **Responsable de la section "Situations et dynamiques familiales"**, [Insee](https://insee.fr/fr/accueil). Cette équipe de 5 personnes mène des enquêtes et des études consacrées à la vie familiale et aux dynamiques démographiques de la population française.
 
 * 2020-2022: **Responsable des études sur les revenus des professionnels de santé**, [Drees](https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/) (service statistique ministériel des ministères sanitaires et sociaux).
 
