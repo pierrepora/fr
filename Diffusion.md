@@ -4,7 +4,7 @@ title: Publications grand public
 
 # Diffusion de la recherche
 
-* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), with R. Lardeux, Dossiers de la Drees 117, 2024.   
+* ["L’indemnisation des accidents du travail avec incapacité permanente compense-t-elle leurs conséquences financières ?"](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/les-dossiers-de-la-drees/230411_DD117_AccidentsTravail), avec R. Lardeux, Dossiers de la Drees 117, 2024.   
      <details>
         <summary>Couverture presse</summary>
      
@@ -139,6 +139,8 @@ le sexe et le secteur ?"](https://www.insee.fr/fr/statistiques/2122740?sommaire=
 
 
 # Autres publications non-académiques
+
+* ["Partager son logement au-delà du noyau familial : des disparités régionales qui persistent"](https://www.insee.fr/fr/statistiques/7749698), avec F. Daguet, Insee Première 1980, 2024.
 
 * ["Les trajectoires d’emploi des contractuels entre 2009 et 2015"](https://www.fonction-publique.gouv.fr/files/files/statistiques/rapports_annuels/2019/07_Dossier-Cotractuels_trajectoires-2019.pdf), avec O. Bonnet et S. Georges-Kot, in *Rapport annuel sur l’état de la fonction publique*, 2019.
 
