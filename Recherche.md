@@ -85,9 +85,9 @@ title: Recherche
 
 * **["Telework and Productivity Three Years After the Start of the Pandemic"](https://www.insee.fr/en/statistiques/7647331?sommaire=7647685). *Economie et Statistique / Economics and Statistics*, 539, 91-96, 2023.**
     <details>
-        <summary>Abstract</summary>
+        <summary>Résumé</summary>
             
-            Since March 2020, the COVID‑19 pandemic has caused many companies and employees to turn to telework. The articles by Bergeaud et al. (2023) and Criscuolo et al. (2023) document the effects of telework on productivity in detail and, more broadly, its effects on the behaviour of companies and employees, both before and during the health crisis. This commentary discusses their findings in terms of the uncertain knowledge that was available on the effects of telework before the health crisis, as well as the technical and conceptual difficulties raised by estimating the consequences of telework. Finally, it examines the apparent paradox whereby, despite its positive effects on both the productive efficiency of companies and the working conditions of employees, teleworking remained rare prior to 2020.
+            Depuis mars 2020, la pandémie de Covid‑19 a conduit de nombreuses entreprises et de nombreux salariés à recourir au télétravail. Les articles de Bergeaud et al. (2023) et Criscuolo et al. (2023) documentent finement les effets du télétravail sur la productivité, et plus largement sur les comportements des entreprises et des salariés, avant et pendant la crise sanitaire. Ce commentaire discute leurs résultats au regard de la connaissance incertaine que l’on avait des effets du télétravail avant la crise sanitaire, mais aussi des difficultés techniques et conceptuelles soulevées par l’estimation des conséquences du recours au télétravail. Il s’interroge enfin sur le paradoxe apparent qui veut qu’en dépit de ses effets positifs tant sur l’efficacité productive des entreprises que sur les conditions de travail des salariés, le télétravail soit resté une organisation du travail marginale avant 2020.
     </details>
     
   <details>
