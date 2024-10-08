@@ -99,6 +99,27 @@ title: Recherche
 
 # Documents de travail
 
+* **["Do Children Explain Nurses Shortages?"**](http://www.jms-insee.fr/2022/S13_4_ACTE_PORA_JMS2022.pdf), Actes des JMS 2022.** *en révision* [Résumé pour le grand public](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+  <details>
+      <summary>Résumé (en anglais)</summary>
+
+    Soon after they land their first job at a hospital, many French nurses become mothers and decrease their hours worked in the salaried sector. I quantify the contribution of motherhood to the labor supply lifecycle profile of French hospital nurses. My event-study estimates, based on administrative registers, show that children cause female nurses to decrease their hours worked in the salaried sector by 0.15 full-time units in average. This decrease is entirely driven by the intensive margin of labor supply, as children do not induce nurses neither to leave salaried employment nor to turn to other jobs.  Motherhood explains over a third of the drop in average hours worked in the salaried sector over the first ten years of a career, and half of the decline in nursing labor supplied to the public sector.
+  </details>
+  <details>
+        <summary>Couverture presse</summary>
+     
+        <a href="https://www.20minutes.fr/societe/4049914-20230824-sante-apres-dix-ans-carriere-moitie-infirmieres-quittent-hopital-changent-metier">20 Minutes</a>,
+        <a href="https://www.francetvinfo.fr/sante/hopital/crise/departs-massifs-d-infirmieres-c-est-du-gachis-humain-et-social-deplore-le-syndicat-national-des-professionnels-infirmiers_6023210.html">France Info</a>,
+        <a href="https://www.la-croix.com/Sciences-et-ethique/infirmieres-sont-nombreuses-quitter-lhopital-2023-08-24-1201279896">La Croix</a>,
+        <a href="https://www.lefigaro.fr/conjoncture/pres-d-une-infirmiere-sur-deux-a-quitte-l-hopital-ou-change-de-metier-apres-dix-ans-de-carriere-20230824">Le Figaro</a>,
+        <a href="https://www.lesechos.fr/economie-france/social/les-infirmieres-toujours-plus-nombreuses-a-quitter-lhopital-1972018">Les Échos</a>,
+        <a href="https://www.liberation.fr/societe/sante/apres-dix-ans-de-carriere-pres-de-la-moitie-des-infirmieres-hospitalieres-ont-jete-leponge-20230824_NVATMZZA5BCBVFIHEZAH4PNOXM/">Libération</a>,
+        <a href="https://www.vie-publique.fr/en-bref/290751-hopital-les-departs-dinfirmieres-plus-nombreux">Vie publique</a>,
+        <a href="https://information.tv5monde.com/terriennes/france-les-infirmieres-oubliees-sous-payees-2665338">TV5Monde</a>
+    </details>
+    
+    <p></p>
+
 *  **["Keep Working and Spend Less? Collective Childcare and Parental Earnings in France" (latest draft)](Childcare_Pora_Feb21.pdf). EconomiX Working Paper 2020-29.** [Résumé pour le grand public](https://insee.fr/fr/statistiques/4652808).
     <details>
         <summary>Résumé (en anglais)</summary>
@@ -127,7 +148,7 @@ title: Recherche
 
 # Travaux en cours
 
-* **"Do Children Explain Nurses Shortages?"**, [Résumé pour le grand public](https://drees.solidarites-sante.gouv.fr/sites/default/files/2023-08/ER1277.pdf).
+
 
 * **"Job Displacement, Families and Redistribution", avec [R. Lardeux](https://sites.google.com/view/lardeuxraphael/home?authuser=0)**, première version bientôt disponible.
 
