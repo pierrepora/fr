@@ -4,7 +4,7 @@ title: Recherche
 
 # Publications dans des revues à comité de lecture
 
-* **["Dissecting Child Penalties"]([http://crest.science/RePEc/wpstorage/2019-17.pdf](https://pierrepora.github.io/Dissecting-Child-Penalties.pdf)), avec [L. Wilner](https://sites.google.com/view/lionelwilner/). accepté pour *ILR Review*.** [Résumé pour le grand public](https://insee.fr/fr/statistiques/4226475).
+* **["Dissecting Child Penalties"](https://pierrepora.github.io/Dissecting-Child-Penalties.pdf), avec [L. Wilner](https://sites.google.com/view/lionelwilner/). accepté pour *ILR Review*.** [Résumé pour le grand public](https://insee.fr/fr/statistiques/4226475).
     <details>
         <summary>Résumé (en anglais)</summary>
     
